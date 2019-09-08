@@ -1,0 +1,30 @@
+{
+  "name": "fatburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoLiD513/fatburger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoLiD513/fatburger/issues"
+  },
+  "homepage": "https://github.com/SoLiD513/fatburger#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bulma": "^0.7.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1",
+    "routes": "^2.1.0"
+  }
+}
